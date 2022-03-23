@@ -8,7 +8,7 @@ The code you have to put in your netlify.toml file
 ```
 [[redirects]]
   from = "/*"
-  to = "/404/404.html" //change the name and the path here
+  to = "/path/404.html" //change-the-name-and-the-path-here-and-delete-this-comment
   status = 404
 ```
 
