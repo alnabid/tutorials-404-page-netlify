@@ -3,6 +3,15 @@ code from the 404 tutorial
 
 It won't work anywhere else except for netlify. It won't work in Live servers, Other hosting servers, Html viewer/code viewers etc. Only works after the file is deployed in netlify.
 
+The code you have to put in your netlify.toml file
+--------------------------------------------------
+```
+[[redirects]]
+  from = "/*"
+  to = "/404/404.html" //change the name and the path here
+  status = 404
+```
+
 Here's the script of the video - Might work as a step by step reading tutorial
 ------------------------------------------------------------------------------
 
