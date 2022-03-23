@@ -7,10 +7,10 @@ https://404-tutorial-alnabid.netlify.app/
 
 The code you have to put in your netlify.toml file
 --------------------------------------------------
-```
+```toml
 [[redirects]]
   from = "/*"
-  to = "/path/404.html" //change-the-name-and-the-path-here-and-delete-this-comment
+  to = "/path/404.html" #change-the-name-and-the-path-here-and-delete-this-comment
   status = 404
 ```
 
@@ -26,3 +26,9 @@ In order to make the 4O4 page work, you need to create another file just beside 
 Don’t worry, you just need to write 2 lines of code. You can copy paste this code. I’ll also put it in the description so you can easily copy the code. You need to change only one line of code here. Make sure the path is correct. Put in the location of the 4O4 page correctly. Now, you can deploy the files via netlify and it will be working. 
 
 Thanks for watching, consider subscribing if it helped you.
+
+Here's the video - https://youtube.com/alnabid 
+
+alnabid
+-------
+Website - https://alnabid.netlify.app
