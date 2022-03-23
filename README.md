@@ -3,6 +3,8 @@ code from the 404 tutorial
 
 It won't work anywhere else except for netlify. It won't work in Live servers, Other hosting servers, Html viewer/code viewers etc. Only works after the file is deployed in netlify.
 
+https://404-tutorial-alnabid.netlify.app/
+
 The code you have to put in your netlify.toml file
 --------------------------------------------------
 ```
