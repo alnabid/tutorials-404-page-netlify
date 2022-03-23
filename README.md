@@ -27,7 +27,7 @@ Don’t worry, you just need to write 2 lines of code. You can copy paste this c
 
 Thanks for watching, consider subscribing if it helped you.
 
-Here's the video - https://youtube.com/alnabid 
+Here's the video -  https://youtu.be/_DYiJr0UrOM 
 
 alnabid
 -------
